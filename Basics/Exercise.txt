@@ -1,0 +1,5 @@
+1.) The terminal in my opinion would be best described as a way of communicating with a computer at the most primal form. It's a way to interact with the computer without a GUI and it's simple.
+
+2.) Git is used to manage source code locally on your machine. GitHUB is an online code hosting service that allows you to upload/download code to the website and share it publicly.
+
+3.) We use GitHUB to work on projects by ourselves or with other people and so that we can utilize Version Control and other means of sharing code and ideas for anywhere around the world. It is a way to securely share, manage, create, and contribute to different coding projects
